@@ -1,0 +1,38 @@
+.offer-parent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background: linear-gradient(to top,#c0c0c05e, #ffff );
+}
+
+
+.offer-heading {
+    font-size: 130px;
+    font-weight: bold;
+    text-shadow: 2px 3px 7px black;
+    margin-bottom: 0px;
+    
+}
+
+.offer-highlight{
+    color: orange;
+    font-size: 190px;
+}
+.offer-text {
+    text-align: center;
+    width: 900px;
+    
+}
+.offer-text h5{
+   font-size: 40px;
+   margin: 0px;
+}
+.offer-text p{
+    max-width: 1100px;
+    font-size: 20px;
+    justify-items: center;
+}
+.offer-text button{
+    padding: 40px ;
+}
